@@ -54,6 +54,4 @@ pip install -r requirements.txt
 Run the application:
 
 streamlit run app.py
-Open your browser and go to:
 
-http://127.0.0.1:8501
