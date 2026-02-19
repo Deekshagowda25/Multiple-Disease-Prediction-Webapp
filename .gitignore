@@ -1,0 +1,7 @@
+*.joblib
+*.sav
+*.mp4
+*.pptx
+artifacts/
+.vscode/
+__pycache__/
